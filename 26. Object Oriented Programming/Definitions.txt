@@ -1,0 +1,40 @@
+Class : 
+    A blueprint or prototype that defines the characteristics of an object about to be created.
+    Eg: Account
+
+Object instance :
+    Collection of data (variables) and methods (functions) that act on those data.
+    Eg : checking
+
+
+Instance variables:
+    variables defined inside the method and are accessible by the object instance.
+    Eg : transfer
+
+Class Variable:
+    Variables shared by all instances of class.
+
+Doc Strings:
+    Passed as soon as one writes the class keyword and gives the explanation of the class.
+    """<DATA WRITTEN HERE>"""
+
+Data Members: 
+    Class variables or instance variables.
+
+Constructor:
+    Constructs the class.
+    Eg:__init__
+
+Class Methods:
+    Methods defined in the class and can be passed to the object.
+    Eg: transfer
+
+Instantiation:
+    Process of creating object instances.
+
+Inheritance :
+    Making a subclass of the main class and shared method of main class and can have methods of its own.
+
+Attributes :
+    Attributes of a class are function objects that define corresponding methods of its instances.
+
